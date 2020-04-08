@@ -1,5 +1,12 @@
 # Instakilogram
 
+To open the app do the following:
+- download repo
+- in terminal go to dir: instakilogram/back
+- yarn install
+- yarn dev
+- open index.html in instakilogram/front
+
 Final project for Node.js course. It is a copy of Instagram. 
 Features: 
 - create a user (with profile picture)
